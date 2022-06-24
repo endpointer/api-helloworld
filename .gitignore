@@ -2,6 +2,6 @@ codebase/php/vendor/
 codebase/php/composer.json
 codebase/php/composer.lock
 
-#codebase/php/.config.ini
+codebase/php/.config.ini
 
 .vscode/

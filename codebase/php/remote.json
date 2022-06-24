@@ -1,0 +1,11 @@
+{
+	"autoload": {
+		"psr-4": {
+			"HelloWorldApi\\": "src/HelloWorldApi/"
+		}
+	},
+	"require": {
+		"php": "~7",
+		"endpointer/endpointer-framework": "^1.2"
+	}
+}
